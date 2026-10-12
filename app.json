@@ -9,7 +9,8 @@
       "package": "rw.ac.ines.ug2527916.mfportfolio",
       "versionCode": 1,
       "permissions": [
-        "CAMERA"
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "plugins": [
@@ -20,6 +21,11 @@
         }
       ],
       "expo-status-bar"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "094cf8f0-4fc1-45dd-8e47-f9e2d2429479"
+      }
+    }
   }
 }
