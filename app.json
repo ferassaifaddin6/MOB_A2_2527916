@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "MFPortfolio",
+    "slug": "mfportfolio",
+    "version": "57.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "rw.ac.ines.ug2527916.mfportfolio",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "MFPortfolio uses the camera to take your profile photo."
+        }
+      ],
+      "expo-status-bar"
+    ]
+  }
+}

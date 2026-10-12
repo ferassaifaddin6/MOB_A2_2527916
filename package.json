@@ -1,0 +1,28 @@
+{
+  "name": "mob_a2_2527916",
+  "version": "57.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-navigation/bottom-tabs": "^7.4.0",
+    "@react-navigation/native": "^7.1.0",
+    "@react-navigation/native-stack": "^7.3.0",
+    "expo": "~57.0.9",
+    "expo-file-system": "*",
+    "expo-image-picker": "*",
+    "expo-status-bar": "~57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "~4.26.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.4",
+    "typescript": "~6.0.3"
+  }
+}
