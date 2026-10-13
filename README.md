@@ -23,11 +23,11 @@ eas build -p android --profile preview
 ```
 Android package: rw.ac.ines.ug2527916.mfportfolio
 
-## Submission details (fill in before submitting)
-- Tested device / Android version: ________
-- Final commit hash: ________
-- Release link (v1.0.0): ________
-- APK link: ________
+## Submission details 
+- Tsted device / Android version: Android 15
+- Final commit hash: c184cbe3209c1430caf262128a393f722857676c
+- Release link (v1.0.0): https://github.com/ferassaifaddin6/MOB_A2_2527916/releases/tag/v1.0.0
+- APK link: https://github.com/ferassaifaddin6/MOB_A2_2527916/releases/download/v1.0.0/MOB_A2_2527916.apk
 
 ## Known limitations
 No online features. The photo is stored in the app's private storage, so clearing app data removes it.
